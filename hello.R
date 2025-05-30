@@ -12,3 +12,6 @@ rate <- calc_incidence_rate(cases, population)
 cat("Incidence rate per 100,000 people is:", round(rate, 2), "\n")
 #new changes
 Cases2 <- 50
+
+#new new changes
+#maybe this will fix my merge issues?
